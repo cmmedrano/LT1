@@ -1,5 +1,29 @@
 # CIRCULAR GARDEN
 
+# PSEUDOCODE\ALGORITHM:
+import math library
+
+ask user for radius
+
+calculate area with math.pi times math.pow(radius, 2)
+
+calculate circumference with 2 times math.pi times radius
+
+calculate square root of area is math.sqrt(area)
+
+calculate rounded down is math.floor(area)
+
+calculate rounded up is math.ceil(area)
+
+output area with .2f
+
+output circumference with .2f
+
+output square root with .2f
+
+output area rounded down
+
+output area rounded u
 # Description:
 In this activity, we must make a Python code for the area, circumference, square root of the area,
 and the area rounded up and down for the circular garden that the school will create.
@@ -9,6 +33,28 @@ To run this code, download it first then open it, after that, you must input a f
 it will not accept any other type of variables like *string*. Then, it will calculate it
 automatically and display the area, circumference, square root of the area, and the area
 rounded up and down.
+
+# Input Variables:
+Float variables like 5, 6, or 2.5 will work for this code. It will not accept string variables
+like fifteen, one, or one point nine.
+
+# Output Example
+If you input 5, it will show this:
+
+"Area of the garden: 78.54 square meters"
+
+"Circumference of the garden: 31.42 meters"
+
+"Square root of the area: 8.86")
+
+"Area rounded down: 78 square meters")
+
+"Area rounded up: 79 square meters")
+
+# Author
+Name: Chrizzia Jillian M. Medrano
+
+Section: Adelfa
 
 # Input Variables:
 Float variables like 5, 6, or 2.5 will work for this code. It will not accept string variables
